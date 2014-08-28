@@ -22,7 +22,7 @@ When sharing a datastore, the user needs to set the role for one or more princip
 
 Once a role has been set to allow other users to view or edit a datastore, the datastore may be shared via the URL displayed in the sharing dialog (`dslists.site44.com#<datastore ID>`). When another user opens that URL, the appropriate list will be displayed.
 
-If the URL is opened on an iOS device, the user will be prompted to open the datastore in the iOS app instead. The iOS app uses a custom URL scheme (`Lists://<datastore ID>`) to open the app to the correct list.
+If the URL is opened on an iOS device, the user will be prompted to open the datastore in the iOS app. The iOS app uses a custom URL scheme (`Lists://<datastore ID>`) to open the app to the correct list.
 
 ### All versions
 
