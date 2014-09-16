@@ -2,6 +2,8 @@
 
 This app demonstrates the [Dropbox Datastore API](https://www.dropbox.com/developers/datastore), in particular the use of datastore sharing to support collaboration. You can try the app at [dslists.site44.com](https://dslists.site44.com).
 
+Read more about Lists on the [Dropbox Developers Blog](https://www.dropbox.com/developers/blog/108/new-lists-sample-app).
+
 ## Understanding the data model
 
 The Lists app lets you create multiple lists, add items to those lists, and share those lists with other users.
@@ -28,4 +30,4 @@ If the URL is opened on an iOS device, the user will be prompted to open the dat
 
 * [JavaScript](https://github.com/dropbox/lists-js)
 * [iOS](https://github.com/dropbox/lists-ios)
-* Android (coming soon)
+* [Android] (https://github.com/dropbox/lists-android)
