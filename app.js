@@ -1,6 +1,6 @@
 $(function () {
 
-var client = new Dropbox.Client({ key: 'gmd9bz0ihf8t30o' });
+var client = new Dropbox.Client({ key: 'vfe6gg08raadefl' });
 client.authDriver(new Dropbox.AuthDriver.Popup({
     receiverUrl: window.location.origin + '/oauth_receiver.html'
 }));
